@@ -1,3 +1,4 @@
 # SSP
 
-planning Documents
+- Test Plan Document
+- Test Cases 
